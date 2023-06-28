@@ -1,0 +1,103 @@
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA1MDc1MX0.8sYGF8lWfdG80DNWxFa1L7fEKKMrvDb2steDwl2smiU",
+    "tokenHead": "Bearer@"
+  }
+}
+
+{
+  "Content-Type": "application/x-www-form-urlencoded",
+  "Authorization": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA1MDc1MX0.8sYGF8lWfdG80DNWxFa1L7fEKKMrvDb2steDwl2smiU"
+}
+
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA1MTc5MH0.zvqThrjP1GJoHO701L9mVXTsChPDfMaZpEfO10Nmcug",
+    "tokenHead": "Bearer@"
+  }
+}
+
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "token": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3ODkiLCJleHAiOjE2ODEzMDQ1NzV9.Om8GLCvHYlTGHjreGP8ITVhhwL1zDM9xjOB0n05Ntwg"
+  }
+}
+
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "token": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA4NTUzMX0.uGpLZ0qVudkTpTEc7OtT5VgEnCV4v3tOyeEpoi_0dv0"
+  }
+}
+
+{
+  "Content-Type": "application/x-www-form-urlencoded",
+  "Authorization": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA4NTUzMX0.uGpLZ0qVudkTpTEc7OtT5VgEnCV4v3tOyeEpoi_0dv0"
+}
+
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "token": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA1Nzk3Mn0.eUvJnTCaq4cHF4rTEfkBrdnAYjeak1JDWYUZAceQy-I"
+  }
+}
+
+{
+  "Content-Type": "application/x-www-form-urlencoded",
+  "Authorization": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA1Nzk3Mn0.eUvJnTCaq4cHF4rTEfkBrdnAYjeak1JDWYUZAceQy-I"
+}
+
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "token": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA5NDM1NX0.FVBqHVlPquQFpfgIAinz66j3JThIzU9MzxN70wZ2WJY"
+  }
+}
+
+{
+  "Content-Type": "application/x-www-form-urlencoded",
+  "Authorization": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTA5NDM1NX0.FVBqHVlPquQFpfgIAinz66j3JThIzU9MzxN70wZ2WJY"
+}
+
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "token": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTE4MTE0Mn0.DL_LIzpgzjhfrhVRI0p7QVKLhMFVeMvYQUCOl-lvkuU"
+  }
+}
+
+{
+  "Content-Type": "application/x-www-form-urlencoded",
+  "Authorization": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTE4MTE0Mn0.DL_LIzpgzjhfrhVRI0p7QVKLhMFVeMvYQUCOl-lvkuU"
+}
+
+{
+  "code": 200,
+  "message": "操作成功",
+  "data": {
+    "token": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3ODkiLCJleHAiOjE2ODEyMjgyNDd9.L_zSzKgr29k0bnZ3mX642oSfpnToU3Lmgalf1DiulvA"
+  }
+}
+
+
+
+{
+  "Content-Type": "application/x-www-form-urlencoded",
+  "Authorization": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3ODkiLCJleHAiOjE2ODEzNjk0NTF9.py4l7MMXzsH_mOif3frw8bmbcWmUCDkiw3Fm3AzEdag"
+}
+
+
+{
+  "Content-Type": "application/x-www-form-urlencoded",
+  "Authorization": "Bearer@eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjM0NTY3OCIsImV4cCI6MTY4MTM5ODE3NH0.UQSafNRwpJsOMj8mSB-YFzjU-YSbH090rkCt3Kt7wEc"
+}

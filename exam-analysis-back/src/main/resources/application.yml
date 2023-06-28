@@ -1,0 +1,38 @@
+server:
+  port: 8087
+
+spring:
+  datasource:
+    name: mymall
+    url: jdbc:mysql://127.0.0.1:3306/exam_analysis?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: "010923"
+    # 使用druid数据源
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    filters: stat
+    maxActive: 20
+    initialSize: 1
+    maxWait: 60000
+    minIdle: 1
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: select 'x'
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+    maxOpenPreparedStatements: 20
+
+jwt:
+  tokenHeader: Authorization #JWT存储的请求头
+  #secret: mall-admin-secret #JWT加解密使用的密钥
+  expiration: 86400000 #JWT的超期限时间(7*24*60*60*1000)
+  tokenHead: Bearer@ #JWT负载中拿到开头
+  servlet:
+    multipart:
+      enabled: true # 是否支持批量上传   (默认值 true)
+      location: /data/tmp # 上传文件的临时目录
+      max-file-size: 10MB # 上传文件最大为 10M （默认值 1M 根据自身业务自行控制即可）
+      max-request-size: 10MB # 设置总上传的数据大小 10M（默认值10M 根据自身业务自行控制即可）
+      file-size-threshold: 0 #文件大小阈值，当大于这个阈值时将写入到磁盘，否则存在内存中，（默认值0 一般情况下不用特意修改）
